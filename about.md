@@ -9,6 +9,6 @@ If you want to join the project, please contact us on our Gitter room at [https:
 
 The former team is composed by the following developers.
 
-{% include icon-github.html username="gianluke" %} - technical leader
-{% include icon-github.html username="giorgiochiriaco" %} - software analyst
-{% include icon-github.html username="marcominetti" %} - product owner
+{% include icon-github.html username="gianluke" %} - technical leader  
+{% include icon-github.html username="giorgiochiriaco" %} - software analyst  
+{% include icon-github.html username="marcominetti" %} - product owner  
