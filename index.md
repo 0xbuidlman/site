@@ -123,5 +123,8 @@ and offerings.
 ![](/site/img/resumes.filter.list.png)
 
 <br/>
-...
+Program Managers, PMOs and HR Managers can list, search and review JIRA users
+(employees, candidates and contractors) by skills and expertise to easily 
+compose the proper team for new and upcoming projects. The matching profiles
+can be exported as pdf to be printed and attached to bids and offerings.
 <br/><br/><br/>
