@@ -6,14 +6,14 @@ permalink: /roadmap/
 
 Here follows a brief roadmap for the project.
 
-#### _Warm up_
+#### **Warm up**
 
-- [x] Define group and project name
-- [x] Define stories within the backlog
-- [x] Setup and get practiced with Atlassian SDK
-- [x] Publish early github.io pages
+- [x] ~~Define group and project name~~
+- [x] ~~Define stories within the backlog~~
+- [x] ~~Setup and get practiced with Atlassian SDK~~
+- [x] ~~Publish early github.io pages~~
 
-#### _Release 01_
+#### **Release 01**
 
 - [ ] Skill Management extension for JIRA (sprint 01)
   - [ ] Skill Catalog
@@ -35,7 +35,7 @@ Here follows a brief roadmap for the project.
       - [ ] to be improved
       - [ ] certificated
       
-#### _Release 02_
+#### **Release 02**
 
  - TODO
   
