@@ -90,7 +90,9 @@ improved for team members.
 ![](/site/img/assign.issue.by.skill.png)
 
 <br/>
-...
+Project leaders and team members are supported during planning, task decomposition and
+issue assignment. You can choose an issue assignee simply picking it from a list suggested
+by skills and allocation.
 <br/><br/><br/>
 
 ---
@@ -104,7 +106,10 @@ improved for team members.
 ![](/site/img/credentials.filter.list.png)
 
 <br/>
-...
+Client managers and project managers can extract detailed information about company projects
+directly from the system. The project credential are composed in terms of duration, size and
+skills. They can be exported as powerpoint slides or pdf to be printed and attached to bids
+and offerings.
 <br/><br/><br/>
 
 ---
