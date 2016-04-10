@@ -5,7 +5,8 @@ title: Features
 
 The project is currently under development.
 The first release of the addon for JIRA will target the following features
-(grayscaled pictures are currently draft mockups as development guideline).
+(grayscaled pictures are currently draft mockups for development guideline:
+released UI will be much more consistent with proper UX).
 
 <br/>
 
