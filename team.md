@@ -14,4 +14,4 @@ The former team is composed by the following developers.
 {% include icon-github.html username="gianluke" %} - technical leader  
 {% include icon-github.html username="giorgiochiriaco" %} - software analyst  
 {% include icon-github.html username="artucavallo" %} - web designer  
-{% include icon-github.html username="marcominetti" %} - product owner  
+{% include icon-github.html username="marcominetti" %} - hr/organizational consultant 
